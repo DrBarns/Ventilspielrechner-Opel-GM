@@ -1,6 +1,6 @@
 # Ventilspiel Rechner für Opel/GM Motoren
 
-### Ideal Für Tablets, ab Android 9.0 (ich arbeite evtl. noch an einer Version für 5.5 damit auch ältere Tablets nutzbar sind, mal sehen...).
+### Ideal für Tablets, ab Android 9.0 (ich arbeite evtl. noch an einer Version für 5.5 damit auch ältere Tablets nutzbar sind, mal sehen...).
 
 Dieses Android Programm soll (Hobby-) Mechanikern helfen die Ventileinstellungen an Ihrem Motor (oder mehreren Motoren) simpel und einfach einstellen zu können. 
 Opel hat sogenante KZ Werte für die Tassenstössel und es ist nicht leicht die "Richtigen" für das eigene Setup zu finden bzw. die Übersicht über 
