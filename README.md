@@ -20,7 +20,7 @@ gekauft werden müssen.
 
 
 Ein weiterer Vorteil ist das autoamatische Speichern der eingegeben Werte (nach dem Speichern eines Motors), das ist hilfreich da man zwischen der Aufnahme der Daten, Bestellen 
-und Einbau mehrere Tagen vergehen können, es können beliebig viele Motoren und belibigen Namen (Motor Typ, KfZ-Kennzeichen, etc...) angelegt werden. 
+und Einbau mehrere Tagen vergehen können, es können beliebig viele Motoren mit belibigen Namen (Motor Typ, KfZ-Kennzeichen, etc...) angelegt werden. 
 
 
 Die Auswahl der Tassenstössel ist denkbar einfach, aus einer Auswahlliste wird der eingebaute Ventilstössel ausgewählt, das gemessene Spiel zwischen Nockenwelle und Ventilstössel
