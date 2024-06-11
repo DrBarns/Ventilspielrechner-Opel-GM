@@ -7,7 +7,7 @@ Opel hat sogenante KZ Werte für die Tassenstössel und es ist nicht leicht die 
 16 Ventile zu behalten. 
 
 
-Das Programm fragt nur welches Ventilspiel für den Einlass und Auslass genwünscht ist (pro Zylinder), und berechtnet anhand der aktuellen Daten, zb.
+Das Programm fragt nur welches Ventilspiel für den Einlass und Auslass gewünscht ist (pro Zylinder), und berechtnet anhand der aktuellen Daten, zb.
 gemessene Ventilspiel den neuen Tassenstössel. 
 
 
