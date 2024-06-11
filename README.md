@@ -11,7 +11,7 @@ Das Programm fragt nur welches Ventilspiel für den Einlass und Auslass gewünsc
 gemessene Ventilspiel den neuen Tassenstössel. 
 
 
-Das Ergebniss wird in einer Graphischen Übersicht angezeigt, sowie in einer BOM (Bill Of Material) Liste geführt. Hier kann man dann durch einfaches anpasssen
+Das Ergebniss wird in einer graphischen Übersicht angezeigt, sowie in einer BOM (Bill Of Material) Liste geführt. Hier kann man dann durch einfaches anpasssen
 des gewünschten Ventilspiels die Tassenstössel anpassen.
 
 
