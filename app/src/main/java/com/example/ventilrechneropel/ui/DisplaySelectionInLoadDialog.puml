@@ -1,0 +1,18 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+group MainViewModel
+MainViewModel -> DataManager : Get List To Display For (User)
+DataManager -> LocalDatabase : Using DAO Request(s)
+LocalDatabase --> DataManager : Return Data
+DataManager --> MainViewModel : Return listOf<>
+end
+
+
+
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml

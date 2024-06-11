@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Ventil Rechner Opel</string>
+    <string name="app_resource_file">app_data_serialized.json</string>
+    <string name="new_motor_name">[Neuer Motor]</string>
+    <string name="title_name">Ventilrechner GM/Opel (beta)</string>
+    <string name="path_to_kzvalues" type="resource">xml/kzvalues.xml</string>
+    <string name="new_user_name">Admin</string>
+    <string name="motor">Motor</string>
+    <string name="no_motor_stored">Kein Motor gespeichert.</string>
+    <string name="info_save_motor_first">Lege erst einen neuen Motor an</string>
+    <string name="motor_name">Motor Name:</string>
+    <string name="load_motor_title">Motor Laden</string>
+    <string name="save_motor_title">Motor Speichern</string>
+    <string name="delete_motor_title">Motor Löschen</string>
+    <string name="save">Speichern</string>
+    <string name="load">Laden</string>
+    <string name="preferences">Einstellungen</string>
+    <string name="menu">Menü</string>
+    <string name="delete">Löschen</string>
+    <string name="close">Schließen</string>
+    <string name="note_motor_name_is_not_vaild">Hinweis: Der Motorname ist nicht gültig.</string>
+    <string name="note_kz_values">Hinweis: Wenn der aktuelle KZ-Wert nicht in der von GM/Opel zur Verfügung gestellten Liste ist, eine KZ-Einheit entspricht ~ 0.005 mm Unterschied, und kann bei Bedarf dem h: Wert (gemessenes Spiel) hinzugefügt oder abgezogen werden.</string>
+    <string name="confirm_delete_motor_title">Motor Löschen?</string>
+    <string name="confirm_delete_motor">Lösche Motor</string>
+    <string name="new_motor">Neuer Motor</string>
+    <string name="confirm_new_motor_title">Neuer Motor ?</string>
+    <string name="warning_new_motor_deletes_unsaved_motor">Warnung: Nicht gespeicherte Motordaten gehen verloren!</string>
+    <string name="cylinder">Zylinder</string>
+    <string name="out">Aus:</string>
+    <string name="ins">Ein:</string>
+    <string name="out_long">Auslass:</string>
+    <string name="ins_long">Einlass:</string>
+    <string name="cylinder_settings_title">Zylindereinstellungen</string>
+    <string name="valve">Ventil</string>
+    <string name="outlet_valve">Auslassventil (eingebaut)</string>
+    <string name="inlet_valve">Einlassventil (eingebaut)</string>
+    <string name="present_valve">Ventildaten</string>
+    <string name="missing">Fehlend</string>
+    <string name="need">Benötigt</string>
+    <string name="present">Vorhanden</string>
+    <string name="kz_value">KZ-Wert</string>
+</resources>

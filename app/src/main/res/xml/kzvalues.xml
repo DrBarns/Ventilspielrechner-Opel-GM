@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kzvalues>
+    <kzvalue>
+        <oem>24465260</oem>
+        <opel>5640005</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.030</ds> <de>3.050</de>
+        <kz>KZ 04</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>24438041</oem>
+        <opel>5640001</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.070</ds> <de>3.090</de>
+        <kz>KZ 08</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>24438146</oem>
+        <opel>5640002</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.110</ds> <de>3.130</de>
+        <kz>KZ 12</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>24438148</oem>
+        <opel>5640003</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.150</ds> <de>3.170</de>
+        <kz>KZ 16</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>24438150</oem>
+        <opel>5640004</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.190</ds> <de>3.210</de>
+        <kz>KZ 20</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353764</oem>
+        <opel>5640006</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.230</ds> <de>3.244</de>
+        <kz>KZ 24X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353766</oem>
+        <opel>5640007</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.258</ds> <de>3.272</de>
+        <kz>KZ 27X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353768</oem>
+        <opel>5640008</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.286</ds> <de>3.300</de>
+        <kz>KZ 30X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353770</oem>
+        <opel>5640009</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.314</ds> <de>3.328</de>
+        <kz>KZ 32X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353772</oem>
+        <opel>5640010</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.342</ds> <de>3.356</de>
+        <kz>KZ 35X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353774</oem>
+        <opel>5640011</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.370</ds> <de>3.384</de>
+        <kz>KZ 38X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353776</oem>
+        <opel>5640012</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.398</ds> <de>3.412</de>
+        <kz>KZ 41X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353778</oem>
+        <opel>5640013</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.426</ds> <de>3.440</de>
+        <kz>KZ 43X</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353780</oem>
+        <opel>5640014</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.460</ds> <de>3.480</de>
+        <kz>KZ 47</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353782</oem>
+        <opel>5640015</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.500</ds> <de>3.520</de>
+        <kz>KZ 51</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353784</oem>
+        <opel>5640016</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.540</ds> <de>3.560</de>
+        <kz>KZ 55</kz>
+    </kzvalue>
+    <kzvalue>
+        <oem>55353786</oem>
+        <opel>5640017</opel>
+        <bez>VENTILSTOESSEL</bez>
+        <ds>3.580</ds> <de>3.600</de>
+        <kz>KZ 59</kz>
+    </kzvalue>
+</kzvalues>

@@ -1,0 +1,41 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+enum Cylinder{
+    Z1, Z2, Z3, Z4, Z5, Z6, Z7, Z8
+}
+
+interface UiValve{
+    cylinder : UiCylinder,
+    valX : Float,
+    oldKZ : KZValue,
+    newKZ : KZValue,
+    color : Color
+}
+
+class UiCylinder {
+    idxC : Cylinder
+    inX : Float
+    outX : Float
+    inValve : List<UiValve>
+    outValve : List<UiValve>
+}
+
+class UiListEntry {
+    kzValue: KZValue,
+    countNeed: Int
+    countPresent: Int
+}
+
+class MainUiState {
+    listCylinders : List<UiCylinder>
+    listUiEntries : List<UiEntry>
+}
+
+UiCylinder  *-- "2..*" UiValve : contains
+MainUiState  *-- "1..*" UiCylinder
+MainUiState  *-- "*" UiListEntry : contains
+UiCylinder o-- Cylinder
+UiValve o-- UiCylinder
+
+@enduml
